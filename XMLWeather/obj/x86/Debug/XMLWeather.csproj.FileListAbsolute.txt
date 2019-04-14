@@ -1,0 +1,11 @@
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\bin\Debug\XMLWeather.exe
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\bin\Debug\XMLWeather.pdb
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.csprojResolveAssemblyReference.cache
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.CurrentScreen.resources
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.ForecastScreen.resources
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.Form1.resources
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.Properties.Resources.resources
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.csproj.GenerateResource.Cache
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.csproj.CoreCompileInputs.cache
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.exe
+C:\Users\dimap\source\repos\XML-Weather--master\XMLWeather\obj\x86\Debug\XMLWeather.pdb
